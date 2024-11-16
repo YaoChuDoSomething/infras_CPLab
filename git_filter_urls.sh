@@ -1,9 +1,12 @@
 #!/bin/bash
 ## URLS that HDF5 Needed
 ## 
+URLS_ZLIB="https://github.com/madler/zlib.git"
+URLS_LIBAEC="https://github.com/MathisRosenhauer/libaec.git"
+
 URLS_BITSHUFFLE="https://github.com/kiyo-masui/bitshuffle.git"
 URLS_CBLOSC="https://github.com/Blosc/c-blosc.git"
-URLS_ZLIB="https://github.com/madler/zlib.git"
+
 URLS_CBLOSC2="https://github.com/Blosc/c-blosc2.git"
 URLS_BZIP2="https://github.com/libarchive/bzip2.git"
 URLS_FPZIP="https://github.com/LLNL/fpzip.git"
